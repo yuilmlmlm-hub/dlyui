@@ -1,0 +1,15 @@
+{
+  "name": "shortlink-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "免费短链接工具：GitHub + Cloudflare Workers + KV，带管理后台、密码访问、过期时间和网址隐藏",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

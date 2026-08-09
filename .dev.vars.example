@@ -1,0 +1,2 @@
+# 本地开发时复制为 .dev.vars 并填入密码
+ADMIN_PASSWORD=请改成你的管理员密码

@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "shortlink",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-15",
+  "kv_namespaces": [
+    {
+      "binding": "LINKS",
+      "id": "00000000000000000000000000000000"
+    }
+  ]
+}
