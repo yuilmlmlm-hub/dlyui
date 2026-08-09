@@ -1,12 +1,12 @@
 {
-  "$schema": "./node_modules/wrangler/config-schema.json",
+  "schema": "./node_modules/wrangler/config-schema.json",
   "name": "shortlink",
   "main": "src/index.js",
-  "compatibility_date": "2026-07-15",
+  "兼容日期": "2026-07-15",
   "kv_namespaces": [
     {
-      "binding": "LINKS",
-      "id": "00000000000000000000000000000000"
+      "绑定": "链接",
+      "id": "468ac14aa3f344aba13947cd228137b3"
     }
   ]
 }
